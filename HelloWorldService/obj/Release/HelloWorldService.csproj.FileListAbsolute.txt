@@ -1,0 +1,6 @@
+C:\MyProjects\WCF\HelloWorld\HelloWorldService\bin\Release\HelloWorldService.dll
+C:\MyProjects\WCF\HelloWorld\HelloWorldService\bin\Release\HelloWorldService.pdb
+C:\MyProjects\WCF\HelloWorld\HelloWorldService\obj\Release\HelloWorldService.csproj.AssemblyReference.cache
+C:\MyProjects\WCF\HelloWorld\HelloWorldService\obj\Release\HelloWorldService.csproj.CoreCompileInputs.cache
+C:\MyProjects\WCF\HelloWorld\HelloWorldService\obj\Release\HelloWorldService.dll
+C:\MyProjects\WCF\HelloWorld\HelloWorldService\obj\Release\HelloWorldService.pdb

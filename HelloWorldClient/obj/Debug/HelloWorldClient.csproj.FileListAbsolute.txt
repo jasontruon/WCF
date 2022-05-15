@@ -1,0 +1,7 @@
+C:\MyProjects\WCF\HelloWorld\HelloWorldClient\bin\Debug\HelloWorldClient.exe
+C:\MyProjects\WCF\HelloWorld\HelloWorldClient\bin\Debug\HelloWorldClient.pdb
+C:\MyProjects\WCF\HelloWorld\HelloWorldClient\obj\Debug\HelloWorldClient.csproj.CoreCompileInputs.cache
+C:\MyProjects\WCF\HelloWorld\HelloWorldClient\obj\Debug\HelloWorldClient.exe
+C:\MyProjects\WCF\HelloWorld\HelloWorldClient\obj\Debug\HelloWorldClient.pdb
+C:\MyProjects\WCF\HelloWorld\HelloWorldClient\bin\Debug\HelloWorldClient.exe.config
+C:\MyProjects\WCF\HelloWorld\HelloWorldClient\obj\Debug\HelloWorldClient.csproj.AssemblyReference.cache

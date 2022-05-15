@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldService", "HelloWorldService\HelloWorldService.csproj", "{FCAAD5D5-B9AA-4DD6-9D97-A0C5CDB79845}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostExpressServer", "HostExpressServer\HostExpressServer.csproj", "{93DE96BD-E5A6-4CF8-8F10-CF847CA54024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldClient", "HelloWorldClient\HelloWorldClient.csproj", "{C090ABDA-D849-4957-8E63-0E21DAA001E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HostIIS", "HostIIS", "{3B30B014-DE8E-4D7E-817D-65B170884F19}"
+	ProjectSection(SolutionItems) = preProject
+		HostIIS\Web.config = HostIIS\Web.config
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bin", "Bin", "{3CC14DE1-02FB-45C9-965B-1CAB5BFE5687}"
+	ProjectSection(SolutionItems) = preProject
+		HostIIS\bin\HelloWorldService.dll = HostIIS\bin\HelloWorldService.dll
+		HostIIS\bin\HelloWorldService.pdb = HostIIS\bin\HelloWorldService.pdb
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostBaseServer", "HostBaseServer\HostBaseServer.csproj", "{7347CAB2-6DF2-4413-A652-9A21BB2B7B53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCAAD5D5-B9AA-4DD6-9D97-A0C5CDB79845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAAD5D5-B9AA-4DD6-9D97-A0C5CDB79845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAAD5D5-B9AA-4DD6-9D97-A0C5CDB79845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCAAD5D5-B9AA-4DD6-9D97-A0C5CDB79845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93DE96BD-E5A6-4CF8-8F10-CF847CA54024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93DE96BD-E5A6-4CF8-8F10-CF847CA54024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93DE96BD-E5A6-4CF8-8F10-CF847CA54024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93DE96BD-E5A6-4CF8-8F10-CF847CA54024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C090ABDA-D849-4957-8E63-0E21DAA001E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C090ABDA-D849-4957-8E63-0E21DAA001E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C090ABDA-D849-4957-8E63-0E21DAA001E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C090ABDA-D849-4957-8E63-0E21DAA001E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7347CAB2-6DF2-4413-A652-9A21BB2B7B53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7347CAB2-6DF2-4413-A652-9A21BB2B7B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7347CAB2-6DF2-4413-A652-9A21BB2B7B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7347CAB2-6DF2-4413-A652-9A21BB2B7B53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3CC14DE1-02FB-45C9-965B-1CAB5BFE5687} = {3B30B014-DE8E-4D7E-817D-65B170884F19}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {105CF44E-52CA-4B5D-99B0-83A557EA6466}
+	EndGlobalSection
+EndGlobal

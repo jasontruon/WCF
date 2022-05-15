@@ -1,0 +1,6 @@
+C:\MyProjects\WCF\HelloWorld\HelloWorldService\bin\Debug\HelloWorldService.dll
+C:\MyProjects\WCF\HelloWorld\HelloWorldService\bin\Debug\HelloWorldService.pdb
+C:\MyProjects\WCF\HelloWorld\HelloWorldService\obj\Debug\HelloWorldService.csproj.CoreCompileInputs.cache
+C:\MyProjects\WCF\HelloWorld\HelloWorldService\obj\Debug\HelloWorldService.dll
+C:\MyProjects\WCF\HelloWorld\HelloWorldService\obj\Debug\HelloWorldService.pdb
+C:\MyProjects\WCF\HelloWorld\HelloWorldService\obj\Debug\HelloWorldService.csproj.AssemblyReference.cache
